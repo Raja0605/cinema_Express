@@ -12,6 +12,7 @@
 	<artifactId>ExpressCinema</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>ExpressCinema</name>
+	<packaging>war</packaging>
 	<description>Demo project for Spring Boot</description>
 	<url/>
 	<licenses>
@@ -67,7 +68,7 @@
 <dependency>
     <groupId>com.google.cloud.sql</groupId>
     <artifactId>mysql-socket-factory-connector-j-8</artifactId>
-    <version>1.25.0</version>
+    <version>1.11.0</version>
 </dependency>
 
 
